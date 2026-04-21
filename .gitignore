@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dist-info/
+.DS_Store
+.idea/
+.vscode/
+
+# Environment
+.env
+.env.*
+
+
+
+# Data and databases
+data/
+
+# Logs and temporary files
+*.log
