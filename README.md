@@ -449,4 +449,5 @@ Install: `pip install -r requirements.txt`
 |---------|------|---------|
 | v3.0 | Apr 2026 | Full eval suite (F1, MAP, NDCG), noise removal, hash dedup, stable IDs |
 | v2.0 | Mar 2026 | Premium UI, multi-format ETL, RAG pipeline |
-| v1.0 | Mar 2026 | Initial project setup |
+| v1.0 | Mar 2026 | Initial project setup |#   E d u R A G - A I - T e a c h i n g - A s s i s t a n t - u s i n g - B M 2 5 - R e t r i e v a l  
+ 
